@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m currently working on ignited.red<br>🌱 I’m currently learning React<br>💬 Ask me about Laravel<br>⚡ Fun fact I love gaming
+🖥️ I’m currently unemployed<br>🌱 I’m currently learning React<br>💬 Ask me about Laravel<br>⚡ Fun fact I love gaming
 
 
 ## 🌐 Socials:
